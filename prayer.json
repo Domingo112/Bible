@@ -1,0 +1,912 @@
+{
+  "app_name": "Bible App",
+  "content_type": "christian_prayer_library",
+  "version": "1.0.0",
+  "language": "en",
+  "title": "Christian Prayer Library",
+  "description": "A broad starter collection of traditional prayers and original Christian prayers across common devotional, pastoral, Catholic, and ecumenical uses. No single file can contain every prayer ever written or used; traditions and local liturgies vary.",
+  "total_prayers": 60,
+  "tradition_note": "Includes selected Catholic prayers and prayers broadly usable across Christian traditions. Some prayers are tradition-specific; users should follow their church’s approved liturgical texts where required.",
+  "prayers": [
+    {
+      "id": "prayer-001",
+      "title": "The Lord’s Prayer",
+      "prayer_type": "Lord’s Prayer",
+      "tradition": "All Christians",
+      "category": "Worship and daily prayer",
+      "scripture_reference": "Matthew 6:9–13",
+      "text": "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven. Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from evil. Amen.",
+      "notes": "Traditional biblical prayer; wording varies by Bible translation and church tradition.",
+      "tags": [
+        "lord’s-prayer",
+        "worship-and-daily-prayer",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-002",
+      "title": "The Apostles’ Creed",
+      "prayer_type": "Creed",
+      "tradition": "Catholic and many Protestant traditions",
+      "category": "Profession of faith",
+      "scripture_reference": null,
+      "text": "I believe in God, the Father almighty, creator of heaven and earth. I believe in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died, and was buried; he descended to the dead. On the third day he rose again; he ascended into heaven, he is seated at the right hand of the Father, and he will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. Amen.",
+      "notes": "The word catholic in this creed means universal Church. Some churches use slightly different wording.",
+      "tags": [
+        "creed",
+        "profession-of-faith",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-003",
+      "title": "The Nicene Creed",
+      "prayer_type": "Creed",
+      "tradition": "Catholic, Orthodox, Anglican, Lutheran and other traditions",
+      "category": "Profession of faith",
+      "scripture_reference": null,
+      "text": "I believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible. I believe in one Lord Jesus Christ, the Only Begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father; through him all things were made. For us and for our salvation he came down from heaven, and by the Holy Spirit was incarnate of the Virgin Mary, and became man. For our sake he was crucified under Pontius Pilate; he suffered death and was buried, and rose again on the third day in accordance with the Scriptures. He ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead and his kingdom will have no end. I believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father [and the Son], who with the Father and the Son is adored and glorified, who has spoken through the prophets. I believe in one, holy, catholic and apostolic Church. I confess one baptism for the forgiveness of sins and look forward to the resurrection of the dead and the life of the world to come. Amen.",
+      "notes": "The Filioque phrase is used in many Western churches and omitted in Eastern Orthodox usage. Local liturgical texts may differ.",
+      "tags": [
+        "creed",
+        "profession-of-faith",
+        "catholic,-orthodox,-anglican,-lutheran"
+      ]
+    },
+    {
+      "id": "prayer-004",
+      "title": "Hail Mary",
+      "prayer_type": "Marian prayer",
+      "tradition": "Catholic",
+      "category": "Marian devotion",
+      "scripture_reference": "Luke 1:28, 42",
+      "text": "Hail Mary, full of grace, the Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.",
+      "notes": "Traditional Catholic prayer.",
+      "tags": [
+        "marian-prayer",
+        "marian-devotion",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-005",
+      "title": "Glory Be",
+      "prayer_type": "Doxology",
+      "tradition": "Catholic and many other traditions",
+      "category": "Praise and worship",
+      "scripture_reference": null,
+      "text": "Glory be to the Father, and to the Son, and to the Holy Spirit: as it was in the beginning, is now, and ever shall be, world without end. Amen.",
+      "notes": "Traditional wording; translations vary.",
+      "tags": [
+        "doxology",
+        "praise-and-worship",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-006",
+      "title": "Act of Contrition",
+      "prayer_type": "Sacramental prayer",
+      "tradition": "Catholic",
+      "category": "Confession and repentance",
+      "scripture_reference": null,
+      "text": "O my God, I am heartily sorry for having offended you, and I detest all my sins because of your just punishments, but most of all because they offend you, my God, who are all-good and deserving of all my love. I firmly resolve, with the help of your grace, to sin no more and to avoid the near occasions of sin. Amen.",
+      "notes": "One traditional form; other approved forms are used in Catholic parishes.",
+      "tags": [
+        "sacramental-prayer",
+        "confession-and-repentance",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-007",
+      "title": "Prayer Before Communion",
+      "prayer_type": "Eucharistic prayer",
+      "tradition": "Catholic",
+      "category": "Holy Communion",
+      "scripture_reference": null,
+      "text": "Lord Jesus Christ, I come to receive you with reverence and gratitude. Prepare my heart to welcome you, strengthen my faith, deepen my love, and help me become more faithful in serving others. May this communion unite me more closely to you and guide me in the way of peace. Amen.",
+      "notes": "Original devotional prayer, not a substitute for the prescribed liturgy.",
+      "tags": [
+        "eucharistic-prayer",
+        "holy-communion",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-008",
+      "title": "Prayer After Communion",
+      "prayer_type": "Eucharistic prayer",
+      "tradition": "Catholic",
+      "category": "Thanksgiving",
+      "scripture_reference": null,
+      "text": "Jesus, thank you for nourishing me at your table. Let the grace I have received shape my thoughts, words, and actions. Help me recognize you in those who are hungry, lonely, sick, or forgotten. Keep me faithful to your teaching and generous in love. Amen.",
+      "notes": "Original devotional prayer.",
+      "tags": [
+        "eucharistic-prayer",
+        "thanksgiving",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-009",
+      "title": "Rosary Opening Prayer",
+      "prayer_type": "Rosary",
+      "tradition": "Catholic",
+      "category": "Rosary",
+      "scripture_reference": null,
+      "text": "Lord Jesus, as I begin this Rosary, open my heart to the mysteries of your life, death, and resurrection. With Mary, help me ponder your Word, grow in faith, and follow you with humility and love. Amen.",
+      "notes": "An original opening prayer; Rosary structure and customary prayers vary.",
+      "tags": [
+        "rosary",
+        "rosary",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-010",
+      "title": "Fatima Prayer",
+      "prayer_type": "Rosary prayer",
+      "tradition": "Catholic",
+      "category": "Rosary",
+      "scripture_reference": null,
+      "text": "O my Jesus, forgive us our sins, save us from the fires of hell, lead all souls to Heaven, especially those in most need of your mercy. Amen.",
+      "notes": "Traditional prayer associated with the Fatima apparitions.",
+      "tags": [
+        "rosary-prayer",
+        "rosary",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-011",
+      "title": "The Memorare",
+      "prayer_type": "Marian prayer",
+      "tradition": "Catholic",
+      "category": "Seeking Mary’s intercession",
+      "scripture_reference": null,
+      "text": "Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thy intercession was left unaided. Inspired by this confidence, I fly unto thee, O Virgin of virgins, my Mother. To thee do I come, before thee I stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy hear and answer me. Amen.",
+      "notes": "Traditional prayer; wording may vary.",
+      "tags": [
+        "marian-prayer",
+        "seeking-mary’s-intercession",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-012",
+      "title": "Angelus",
+      "prayer_type": "Marian devotion",
+      "tradition": "Catholic",
+      "category": "Incarnation and midday prayer",
+      "scripture_reference": null,
+      "text": "The Angel of the Lord declared unto Mary: And she conceived of the Holy Spirit. Hail Mary… Behold the handmaid of the Lord: Be it done unto me according to thy word. Hail Mary… And the Word was made flesh: And dwelt among us. Hail Mary… Pray for us, O holy Mother of God, that we may be made worthy of the promises of Christ. Let us pray: Pour forth, we beseech thee, O Lord, thy grace into our hearts; that we, to whom the Incarnation of Christ, thy Son, was made known by the message of an angel, may by his Passion and Cross be brought to the glory of his Resurrection. Through the same Christ our Lord. Amen.",
+      "notes": "Traditional Angelus structure. The Hail Mary portions are indicated rather than repeated.",
+      "tags": [
+        "marian-devotion",
+        "incarnation-and-midday-prayer",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-013",
+      "title": "Prayer to Saint Michael",
+      "prayer_type": "Saints and angels",
+      "tradition": "Catholic",
+      "category": "Protection and spiritual strength",
+      "scripture_reference": null,
+      "text": "Saint Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray; and do thou, O Prince of the heavenly host, by the power of God, cast into hell Satan and all the evil spirits who prowl about the world seeking the ruin of souls. Amen.",
+      "notes": "Traditional Catholic prayer.",
+      "tags": [
+        "saints-and-angels",
+        "protection-and-spiritual-strength",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-014",
+      "title": "Prayer for the Faithful Departed",
+      "prayer_type": "Prayer for the dead",
+      "tradition": "Catholic and some Anglican traditions",
+      "category": "Remembrance and hope",
+      "scripture_reference": "2 Maccabees 12:44–46; 1 Thessalonians 4:13–14",
+      "text": "Eternal rest grant unto them, O Lord, and let perpetual light shine upon them. May the souls of the faithful departed, through the mercy of God, rest in peace. Amen.",
+      "notes": "Traditional Catholic prayer.",
+      "tags": [
+        "prayer-for-the-dead",
+        "remembrance-and-hope",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-015",
+      "title": "Prayer for the Sick",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Healing and comfort",
+      "scripture_reference": "James 5:14–16",
+      "text": "Compassionate God, look with mercy on those who are sick or recovering. Ease their pain, calm their fears, and give wisdom to those who care for them. Guide doctors, nurses, family members, and friends. May the sick know they are not alone, and may they receive the care and support they need. Amen.",
+      "notes": "Original prayer. It does not replace medical care.",
+      "tags": [
+        "intercession",
+        "healing-and-comfort",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-016",
+      "title": "Prayer for the Dying",
+      "prayer_type": "Pastoral prayer",
+      "tradition": "Catholic and other Christians",
+      "category": "Comfort at the end of life",
+      "scripture_reference": "Psalm 23; John 14:1–3",
+      "text": "Merciful Lord, be near to your servant in this hour. Bring comfort where there is fear, peace where there is distress, and the assurance of your love. Bless those keeping watch, and help them offer gentle care. Into your hands we commend this beloved person, trusting in your mercy. Amen.",
+      "notes": "Original pastoral prayer. Follow local clergy and hospice guidance where appropriate.",
+      "tags": [
+        "pastoral-prayer",
+        "comfort-at-the-end-of-life",
+        "catholic"
+      ]
+    },
+    {
+      "id": "prayer-017",
+      "title": "Morning Prayer",
+      "prayer_type": "Daily prayer",
+      "tradition": "All Christians",
+      "category": "Beginning the day",
+      "scripture_reference": "Psalm 5:3",
+      "text": "God of new beginnings, thank you for the gift of this day. Guide my choices, guard my words, and help me notice the people who need kindness. Give me courage for difficult tasks and humility to learn. May my work and rest honor you. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "daily-prayer",
+        "beginning-the-day",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-018",
+      "title": "Evening Prayer",
+      "prayer_type": "Daily prayer",
+      "tradition": "All Christians",
+      "category": "Ending the day",
+      "scripture_reference": "Psalm 4:8",
+      "text": "God of peace, as this day ends, I place before you all that has happened: the joyful moments, the unfinished tasks, the mistakes, and the things I cannot change. Forgive me where I have done wrong. Help me make amends where needed, and grant me restful sleep. Keep those I love in your care. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "daily-prayer",
+        "ending-the-day",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-019",
+      "title": "Prayer Before Meals",
+      "prayer_type": "Table prayer",
+      "tradition": "All Christians",
+      "category": "Thanksgiving for food",
+      "scripture_reference": "Matthew 6:11",
+      "text": "Gracious God, thank you for this food and for all who helped bring it to our table. Bless those who prepared it, those who share it with us, and those who do not have enough to eat. Teach us to receive with gratitude and to share generously. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "table-prayer",
+        "thanksgiving-for-food",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-020",
+      "title": "Prayer After Meals",
+      "prayer_type": "Table prayer",
+      "tradition": "All Christians",
+      "category": "Thanksgiving",
+      "scripture_reference": null,
+      "text": "Thank you, God, for the food we have shared and for the people gathered here. May this meal strengthen us for loving service. Remember those who are hungry, and show us how to respond with compassion. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "table-prayer",
+        "thanksgiving",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-021",
+      "title": "Prayer of Repentance",
+      "prayer_type": "Confession",
+      "tradition": "All Christians",
+      "category": "Repentance and renewal",
+      "scripture_reference": "Psalm 51:1–12",
+      "text": "Merciful God, I confess the ways I have turned from what is good. I have hurt others, neglected what matters, and allowed selfishness to shape my choices. Forgive me, cleanse my heart, and help me make things right wherever I can. Give me strength to change, and lead me in a life marked by truth, mercy, and love. Amen.",
+      "notes": "Original prayer based on biblical themes.",
+      "tags": [
+        "confession",
+        "repentance-and-renewal",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-022",
+      "title": "Prayer for Forgiveness",
+      "prayer_type": "Confession",
+      "tradition": "All Christians",
+      "category": "Receiving grace",
+      "scripture_reference": "1 John 1:9",
+      "text": "God of mercy, I bring my failures honestly before you. I am sorry for the harm I have caused and the good I have left undone. Thank you for your promise of forgiveness. Help me accept your grace, take responsibility, repair what I can, and walk in a new direction. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "confession",
+        "receiving-grace",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-023",
+      "title": "Prayer for Guidance",
+      "prayer_type": "Petition",
+      "tradition": "All Christians",
+      "category": "Decision-making",
+      "scripture_reference": "Proverbs 3:5–6; James 1:5",
+      "text": "God of wisdom, I do not see the whole road ahead. Help me understand the choices before me, recognize what is true, and seek advice from people of integrity. Keep me from decisions driven by fear, pride, or pressure. Show me the next faithful step and give me courage to take it. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "petition",
+        "decision-making",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-024",
+      "title": "Prayer for Peace",
+      "prayer_type": "Petition",
+      "tradition": "All Christians",
+      "category": "Peace in anxiety",
+      "scripture_reference": "Philippians 4:6–7",
+      "text": "God of peace, quiet the thoughts that overwhelm me. Help me face real problems with wisdom and release what I cannot control. Remind me that I can ask for help and that I do not have to carry every burden alone. Guard my heart and mind, and lead me toward peace. Amen.",
+      "notes": "Original prayer; seek appropriate support for persistent distress.",
+      "tags": [
+        "petition",
+        "peace-in-anxiety",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-025",
+      "title": "Prayer for Protection",
+      "prayer_type": "Petition",
+      "tradition": "All Christians",
+      "category": "Safety and trust",
+      "scripture_reference": "Psalm 121",
+      "text": "Lord, watch over me and those I love as we go about our day. Give us wisdom to avoid danger, courage to respond well when difficulties arise, and compassion for people who need help. Protect those who travel, work, study, and serve. Keep us mindful that our security is found in you. Amen.",
+      "notes": "Original prayer; not a guarantee that harm cannot occur.",
+      "tags": [
+        "petition",
+        "safety-and-trust",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-026",
+      "title": "Prayer for Family",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Family and home",
+      "scripture_reference": "Joshua 24:15",
+      "text": "God of love, bless my family and everyone I call home. Help us speak honestly and kindly, listen with patience, and forgive when we hurt one another. Provide for our needs, guide our decisions, and make our home a place of safety, respect, and welcome. Be near to families experiencing conflict, grief, or separation. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "family-and-home",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-027",
+      "title": "Prayer for Children",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Children and caregivers",
+      "scripture_reference": "Mark 10:14",
+      "text": "Loving God, watch over children and help them grow in safety, wisdom, joy, and compassion. Give parents and caregivers patience and support. Protect children from neglect, violence, and exploitation, and guide communities to care for them. Help every child know they are precious and worthy of respect. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "children-and-caregivers",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-028",
+      "title": "Prayer for Marriage",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Marriage and commitment",
+      "scripture_reference": "1 Corinthians 13:4–7",
+      "text": "God of covenant love, strengthen couples in patience, honesty, tenderness, and mutual respect. Help them listen well, resolve disagreements without cruelty, and share responsibilities fairly. In seasons of difficulty, guide them toward wise support. May their love be faithful, generous, and rooted in your grace. Amen.",
+      "notes": "Original prayer; does not imply someone should remain in an unsafe relationship.",
+      "tags": [
+        "intercession",
+        "marriage-and-commitment",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-029",
+      "title": "Prayer for Singles",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Single life and belonging",
+      "scripture_reference": "1 Corinthians 7:32–35",
+      "text": "God, meet me in the life I am living now. Help me find meaning in friendship, service, work, worship, and rest. Free me from the pressure to measure my worth by relationship status. Give me healthy community, wise boundaries, and an open heart to the ways you lead me. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "single-life-and-belonging",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-030",
+      "title": "Prayer for Students",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Learning and exams",
+      "scripture_reference": "James 1:5",
+      "text": "God of wisdom, bless my learning. Help me focus, ask questions, manage my time, and remember what I have studied. Keep me honest in my work and kind to classmates. When I feel anxious, help me prepare responsibly and do my best without making grades the measure of my worth. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "learning-and-exams",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-031",
+      "title": "Prayer for Work and Livelihood",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Work and provision",
+      "scripture_reference": "Colossians 3:23",
+      "text": "God, bless the work of my hands and guide me toward honest opportunities. Give me patience as I learn, courage when work is difficult, and fairness in how I treat others. Remember those seeking employment or struggling to provide for their families. Help us build livelihoods without losing compassion or integrity. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "work-and-provision",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-032",
+      "title": "Prayer for the Poor and Hungry",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Justice and compassion",
+      "scripture_reference": "Matthew 25:35",
+      "text": "God of compassion, be near to people who are hungry, homeless, displaced, or unable to meet their basic needs. Move us beyond sympathy into practical care. Guide leaders and communities toward just solutions, and help us share what we have with humility and respect. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "justice-and-compassion",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-033",
+      "title": "Prayer for Peace in the World",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Peace and reconciliation",
+      "scripture_reference": "Matthew 5:9",
+      "text": "God of all nations, bring an end to violence and protect civilians caught in conflict. Comfort families separated by war, displacement, and fear. Give wisdom to leaders, courage to peacemakers, and strength to those working for justice. Help us reject hatred and work for reconciliation without ignoring truth. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "peace-and-reconciliation",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-034",
+      "title": "Prayer for the Church",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Church community",
+      "scripture_reference": "Ephesians 4:1–6",
+      "text": "Lord Jesus, guide your Church in every place. Make us humble, truthful, compassionate, and united in love. Help leaders serve rather than seek status, protect those who are vulnerable, and give communities courage to confess wrongdoing and pursue healing. May our worship lead us to serve our neighbours. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "church-community",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-035",
+      "title": "Prayer for Pastors and Ministers",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Church leaders",
+      "scripture_reference": "1 Timothy 3:1–7; 1 Peter 5:2–3",
+      "text": "God, strengthen those who teach, preach, shepherd, and serve. Give them wisdom, integrity, humility, and rest. Protect them from isolation and the temptation to misuse authority. Help congregations support their leaders while holding all people accountable to truth and care. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "church-leaders",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-036",
+      "title": "Prayer for Unity Among Christians",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Christian unity",
+      "scripture_reference": "John 17:20–23",
+      "text": "Lord Jesus, you prayed that your followers would be one. Help Christians listen to one another with humility, speak truth without contempt, and work together where love and service unite us. Teach us to acknowledge our differences honestly while refusing hatred and pride. May our lives point toward your love. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "christian-unity",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-037",
+      "title": "Prayer of Thanksgiving",
+      "prayer_type": "Praise",
+      "tradition": "All Christians",
+      "category": "Gratitude",
+      "scripture_reference": "Psalm 100",
+      "text": "Generous God, thank you for life, creation, friendship, daily provision, and the hope we have in Christ. Thank you for help received and lessons learned. When I focus only on what is missing, turn my attention toward your goodness. Make my gratitude visible through generosity, patience, and joyful service. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "praise",
+        "gratitude",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-038",
+      "title": "Prayer of Praise",
+      "prayer_type": "Praise",
+      "tradition": "All Christians",
+      "category": "Adoration",
+      "scripture_reference": "Psalm 145",
+      "text": "Holy God, you are worthy of praise. Your mercy is steadfast, your wisdom is beyond mine, and your love reaches every generation. I praise you not only for what you give, but for who you are. Let my worship shape the way I live, and help me honor you in all things. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "praise",
+        "adoration",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-039",
+      "title": "Prayer for the Holy Spirit",
+      "prayer_type": "Invocation",
+      "tradition": "All Christians",
+      "category": "Seeking the Spirit’s guidance",
+      "scripture_reference": "Luke 11:13; Galatians 5:22–23",
+      "text": "Holy Spirit, fill me with love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. Guide me into truth, correct me when I wander, and help me recognize the needs of others. Give me courage to use my gifts for service and humility to follow your leading. Amen.",
+      "notes": "Original prayer reflecting widely shared Christian language.",
+      "tags": [
+        "invocation",
+        "seeking-the-spirit’s-guidance",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-040",
+      "title": "Prayer for Spiritual Growth",
+      "prayer_type": "Petition",
+      "tradition": "All Christians",
+      "category": "Discipleship",
+      "scripture_reference": "Colossians 1:9–10",
+      "text": "Father, help me grow in the knowledge of you and in a life that reflects your love. Strengthen my prayer, deepen my understanding of Scripture, and make my character more like Christ. When I fail, lead me to repentance; when I succeed, keep me humble. Help me grow steadily in faith. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "petition",
+        "discipleship",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-041",
+      "title": "Prayer During Temptation",
+      "prayer_type": "Petition",
+      "tradition": "All Christians",
+      "category": "Resisting temptation",
+      "scripture_reference": "Matthew 6:13; 1 Corinthians 10:13",
+      "text": "Lord, help me recognize temptation before I act. Give me strength to step away from what harms me and wisdom to seek support when I need it. Renew my desires, guide my choices, and remind me that I can ask for help. Lead me toward what is honest, healthy, and good. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "petition",
+        "resisting-temptation",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-042",
+      "title": "Prayer for Deliverance and Freedom",
+      "prayer_type": "Petition",
+      "tradition": "All Christians",
+      "category": "Freedom from harmful patterns",
+      "scripture_reference": "Psalm 34:17; John 8:36",
+      "text": "Jesus, meet me in the places where I feel trapped. Give me courage to name what is happening and to seek wise, trustworthy help. Strengthen me to leave harmful patterns, make safe choices, and receive the support I need. Lead me toward freedom, truth, and a life shaped by your love. Amen.",
+      "notes": "Original prayer. For abuse, addiction, or danger, prayer can accompany professional and practical support.",
+      "tags": [
+        "petition",
+        "freedom-from-harmful-patterns",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-043",
+      "title": "Prayer for Grief",
+      "prayer_type": "Lament",
+      "tradition": "All Christians",
+      "category": "Bereavement and loss",
+      "scripture_reference": "Psalm 34:18; John 11:35",
+      "text": "God of comfort, my heart is heavy with loss. Thank you for the life and love I remember, and be near to me in the moments when grief feels overwhelming. Help me accept support, rest when I need to, and remember without feeling pressured to hurry through sorrow. Hold all who mourn in your compassion. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "lament",
+        "bereavement-and-loss",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-044",
+      "title": "Prayer for a New Home",
+      "prayer_type": "Blessing",
+      "tradition": "All Christians",
+      "category": "Home and hospitality",
+      "scripture_reference": "Psalm 127:1",
+      "text": "God, bless this home and all who enter it. May it be a place of safety, welcome, honesty, rest, and kindness. Help us use what we have responsibly and share hospitality with those who need it. Guide us through challenges and fill this home with peace. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "blessing",
+        "home-and-hospitality",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-045",
+      "title": "Prayer Before Travel",
+      "prayer_type": "Journey prayer",
+      "tradition": "All Christians",
+      "category": "Travel and journeys",
+      "scripture_reference": "Psalm 121",
+      "text": "God who watches over our going out and coming in, guide us on this journey. Give drivers and travelers alertness, patience, and good judgment. Protect everyone on the road and help us respond wisely to delays or difficulties. Bring us safely to our destination and make us considerate of others along the way. Amen.",
+      "notes": "Original prayer; use practical travel safety measures.",
+      "tags": [
+        "journey-prayer",
+        "travel-and-journeys",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-046",
+      "title": "Prayer for a New Beginning",
+      "prayer_type": "Petition",
+      "tradition": "All Christians",
+      "category": "Change and renewal",
+      "scripture_reference": "Lamentations 3:22–23",
+      "text": "Merciful God, thank you that your compassion is new every morning. Help me release what I cannot change, learn from my mistakes, and begin again with humility. Give me strength to make amends, courage to choose what is right, and patience as growth takes time. Walk with me into this new season. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "petition",
+        "change-and-renewal",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-047",
+      "title": "Prayer for Guidance in Discernment",
+      "prayer_type": "Discernment",
+      "tradition": "Catholic, Orthodox and other Christians",
+      "category": "Discerning a vocation or major choice",
+      "scripture_reference": "Romans 12:1–2",
+      "text": "God of wisdom, help me discern the path that leads toward love, truth, and faithful service. Quiet the pressure to impress others. Help me consider my gifts, responsibilities, and the needs around me. Give me patience to seek counsel and freedom to accept a direction that may differ from my first plan. Amen.",
+      "notes": "Original prayer; discernment practices differ across traditions.",
+      "tags": [
+        "discernment",
+        "discerning-a-vocation-or-major-choice",
+        "catholic,-orthodox"
+      ]
+    },
+    {
+      "id": "prayer-048",
+      "title": "Prayer for the Dead (Commendation)",
+      "prayer_type": "Prayer for the dead",
+      "tradition": "Catholic, Orthodox, Anglican and some other traditions",
+      "category": "Committing the departed to God",
+      "scripture_reference": "John 11:25–26",
+      "text": "God of mercy and resurrection, we entrust our departed loved one to your care. Receive them in your compassion, comfort all who mourn, and strengthen us with the hope of life in Christ. May our memories lead us to gratitude, and may your peace sustain us in our grief. Amen.",
+      "notes": "Original prayer. Churches differ in their theology and rites concerning prayer for the dead.",
+      "tags": [
+        "prayer-for-the-dead",
+        "committing-the-departed-to-god",
+        "catholic,-orthodox,-anglican"
+      ]
+    },
+    {
+      "id": "prayer-049",
+      "title": "Prayer for Those Who Persecute Us",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Love of enemies",
+      "scripture_reference": "Matthew 5:44; Romans 12:14",
+      "text": "God, help me respond to hostility without becoming cruel myself. Protect those who are threatened or oppressed, and bring wrongdoing into the light. Give me wisdom to establish safe boundaries and courage to pursue justice through peaceful and truthful means. Where repentance and reconciliation are possible, make a way for them. Amen.",
+      "notes": "Original prayer. Loving enemies does not require remaining in danger.",
+      "tags": [
+        "intercession",
+        "love-of-enemies",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-050",
+      "title": "Prayer for Creation",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Stewardship of creation",
+      "scripture_reference": "Genesis 2:15; Psalm 24:1",
+      "text": "Creator God, thank you for the earth and all living things. Teach us to care for the world responsibly, protect what is vulnerable, and consider the needs of future generations. Give wisdom to communities facing environmental harm and help us make thoughtful choices in our homes and workplaces. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "stewardship-of-creation",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-051",
+      "title": "Prayer for Those Who Are Lonely",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Friendship and belonging",
+      "scripture_reference": "Psalm 25:16",
+      "text": "God who sees each person, be near to those who feel forgotten or alone. Bring trustworthy friendship, welcoming communities, and practical support. Help me notice people who may be isolated and reach out with sensitivity. Teach us to make room for one another and to listen without judgment. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "friendship-and-belonging",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-052",
+      "title": "Prayer for Reconciliation",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Repairing relationships",
+      "scripture_reference": "Matthew 5:23–24; Romans 12:18",
+      "text": "God of reconciliation, show me where I need to apologize, listen, or make amends. Give me humility to take responsibility for my part and wisdom to recognize what is not mine to carry. Help all involved speak truthfully and respectfully. If reconciliation is not safe or possible now, guide us toward peace and healthy boundaries. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "repairing-relationships",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-053",
+      "title": "Prayer for Justice",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Justice and mercy",
+      "scripture_reference": "Micah 6:8; Amos 5:24",
+      "text": "God of justice, defend those who are exploited, ignored, or treated unfairly. Expose corruption and give courage to people who work for truth. Keep my own heart from indifference, prejudice, and revenge. Show me how to act justly, love mercy, and walk humbly in the responsibilities I have. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "justice-and-mercy",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-054",
+      "title": "Prayer for a Difficult Conversation",
+      "prayer_type": "Petition",
+      "tradition": "All Christians",
+      "category": "Communication",
+      "scripture_reference": "Proverbs 15:1; James 1:19",
+      "text": "Lord, prepare me for this conversation. Help me listen carefully, speak truthfully, and avoid words meant to wound. Give me courage to say what needs to be said and humility to hear what I may have missed. Help me seek understanding without surrendering what is right, and guide us toward a constructive next step. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "petition",
+        "communication",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-055",
+      "title": "Prayer for a Church Gathering",
+      "prayer_type": "Opening prayer",
+      "tradition": "All Christians",
+      "category": "Worship and fellowship",
+      "scripture_reference": "Psalm 133:1",
+      "text": "God of grace, gather us in your presence. Turn our attention from distraction and help us worship with sincere hearts. May our words encourage, our listening deepen understanding, and our fellowship strengthen love. Guide all who lead and teach, and send us out ready to serve. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "opening-prayer",
+        "worship-and-fellowship",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-056",
+      "title": "Prayer for Bible Study",
+      "prayer_type": "Opening prayer",
+      "tradition": "All Christians",
+      "category": "Study of Scripture",
+      "scripture_reference": "Psalm 119:18",
+      "text": "God of truth, open our minds and hearts as we read Scripture. Help us understand the passage in its context, ask honest questions, and listen respectfully to one another. Keep us from using your Word to harm or belittle others. Show us how to live what we learn. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "opening-prayer",
+        "study-of-scripture",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-057",
+      "title": "Prayer for a Child’s Bedtime",
+      "prayer_type": "Family prayer",
+      "tradition": "All Christians",
+      "category": "Children and sleep",
+      "scripture_reference": "Psalm 4:8",
+      "text": "Dear God, thank you for today and for the people who care for me. Please watch over my family and friends tonight. Help me be kind tomorrow, forgive me when I do wrong, and give me peaceful sleep. Thank you for loving me. Amen.",
+      "notes": "Original simple prayer.",
+      "tags": [
+        "family-prayer",
+        "children-and-sleep",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-058",
+      "title": "Prayer for Those Who Serve Others",
+      "prayer_type": "Intercession",
+      "tradition": "All Christians",
+      "category": "Caregivers and public service",
+      "scripture_reference": "Galatians 6:9",
+      "text": "God, strengthen everyone who serves others: caregivers, teachers, health workers, volunteers, emergency responders, and those whose work is often unseen. Give them safety, rest, fair support, and compassion. Help communities value their service and share the work of caring for one another. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "intercession",
+        "caregivers-and-public-service",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-059",
+      "title": "Prayer of Surrender",
+      "prayer_type": "Consecration",
+      "tradition": "All Christians",
+      "category": "Offering one’s life to God",
+      "scripture_reference": "Luke 22:42; Romans 12:1",
+      "text": "God, I place my plans, hopes, fears, and abilities before you. Help me release the need to control every outcome while remaining responsible for the choices before me. Shape my desires toward what is good, and give me courage to follow your way with humility and love. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "consecration",
+        "offering-one’s-life-to-god",
+        "all-christians"
+      ]
+    },
+    {
+      "id": "prayer-060",
+      "title": "Prayer for the Beginning of a Week",
+      "prayer_type": "Daily prayer",
+      "tradition": "All Christians",
+      "category": "Weekly dedication",
+      "scripture_reference": "Psalm 90:17",
+      "text": "Lord, as a new week begins, guide my priorities and help me use my time wisely. Bless my work, studies, relationships, and responsibilities. Give me patience when plans change, courage when tasks are difficult, and opportunities to serve. Help me make room for worship, rest, and gratitude. Amen.",
+      "notes": "Original prayer.",
+      "tags": [
+        "daily-prayer",
+        "weekly-dedication",
+        "all-christians"
+      ]
+    }
+  ]
+}
