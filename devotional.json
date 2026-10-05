@@ -1,0 +1,551 @@
+{
+  "app_name": "Bible App",
+  "content_type": "daily_devotional",
+  "version": "1.0.0",
+  "language": "en",
+  "title": "Walking with God: 25 Days of Devotion",
+  "description": "A 25-day Christian devotional collection with Scripture, extended reflections, questions, prayers, memory verses, and daily actions. Scripture quotations are included as supplied in this file; compare with your preferred Bible translation.",
+  "days": 25,
+  "devotionals": [
+    {
+      "id": "day-01",
+      "day": 1,
+      "title": "Beginning Again with God",
+      "theme": "A fresh start rooted in grace",
+      "scripture": {
+        "reference": "Lamentations 3:22–23",
+        "text": "Because of the LORD’s great love we are not consumed, for his compassions never fail. They are new every morning; great is your faithfulness."
+      },
+      "reading_time_minutes": 8,
+      "devotional": "Every new day is a quiet reminder that God has not finished working in your life. Yesterday may have carried mistakes, disappointment, unanswered questions, or moments when you felt far from the person you hoped to become. Yet the mercy of God is not exhausted by yesterday. His compassion is new every morning.\n\nA fresh start does not mean pretending that the past never happened. It means bringing the past honestly before God and allowing His grace to shape what comes next. Sometimes we keep replaying our failures until they become the loudest voice in our minds. We remember what we said, what we did not do, the opportunity we missed, or the promise we struggled to keep. God invites us to confess what is wrong, receive His forgiveness, learn from what happened, and take the next faithful step.\n\nThe faithfulness of God is not measured by how perfect your week has been. It is revealed in His steady love. When your feelings change, His character does not. When your plans are interrupted, He remains present. When you do not know how to repair everything at once, He can guide you through one wise decision at a time.\n\nYou may be beginning again in your relationship with God, your studies, your work, your family, or a personal goal. Do not despise a small beginning. A quiet prayer, an honest apology, a page of Scripture, or one act of obedience can become the beginning of meaningful change. Growth is often gradual. God can use ordinary faithfulness over time.\n\nToday, stop measuring your future only by the weight of your past. Ask God to show you what needs to be confessed, what needs to be released, and what next step you can take. You do not have to solve your whole life before you can walk with Him today. His mercy meets you here.",
+      "reflection_questions": [
+        "What past mistake or disappointment have I been allowing to define me?",
+        "What would it look like to receive God’s mercy today instead of remaining trapped in shame?",
+        "What is one small, faithful step I can take before the day ends?"
+      ],
+      "prayer": "Faithful Father, thank You for mercy that is new every morning. Help me face my past honestly without allowing it to control my future. Forgive me where I have sinned, teach me what I need to learn, and give me courage to begin again. Guide my thoughts, words, and actions today. When I feel discouraged, remind me that Your love has not failed. In Jesus’ name, amen.",
+      "daily_action": "Write down one burden from yesterday and one practical step you can take today. Pray over both, then take the step you identified.",
+      "memory_verse": "Lamentations 3:23"
+    },
+    {
+      "id": "day-02",
+      "day": 2,
+      "title": "Trusting God When the Road Is Unclear",
+      "theme": "Faith in seasons of uncertainty",
+      "scripture": {
+        "reference": "Proverbs 3:5–6",
+        "text": "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+      },
+      "reading_time_minutes": 9,
+      "devotional": "Uncertainty can make even simple decisions feel heavy. You may be waiting for an answer, trying to choose a direction, or wondering how a difficult situation will end. The desire to understand everything is natural, but life rarely gives us a complete map before we begin walking.\n\nProverbs teaches us to trust God with the whole heart. This kind of trust is more than saying that God exists or believing that good things are possible. It is choosing to bring our plans, fears, questions, and decisions before Him. It means admitting that our understanding is limited and that we need wisdom beyond our own.\n\nTrust does not require you to ignore facts or stop thinking carefully. Faith and wisdom belong together. You can seek advice, compare options, prepare responsibly, and still acknowledge that the final outcome is not entirely in your control. Prayer is not a substitute for wise action; it is the place where wise action is shaped by humility and dependence on God.\n\nSometimes God guides through Scripture, through mature and trustworthy counsel, through circumstances, or through a growing conviction about what is right. At other times, the next step is clear while the larger destination remains unknown. You may not receive an explanation for every delay. You can still ask for strength to do what is faithful today.\n\nSubmitting your ways to God means inviting Him into ordinary decisions, not only emergencies. It means asking whether your plans reflect honesty, love, patience, and responsibility. It also means being willing to change direction when you recognize that a choice is unwise or harmful.\n\nIf the road ahead seems unclear, do not assume that uncertainty means God has abandoned you. Pause, pray, seek sound counsel, and take the next responsible step. You can trust God without knowing every detail of tomorrow.",
+      "reflection_questions": [
+        "Which uncertain situation is occupying most of my thoughts?",
+        "Have I confused trusting God with needing to know exactly how everything will turn out?",
+        "What wise next step can I take while I continue praying for guidance?"
+      ],
+      "prayer": "Lord, You see the road ahead even when I cannot. I bring You my questions, plans, and fears. Give me wisdom to make careful decisions, humility to seek counsel, and patience when answers take time. Keep me from acting out of panic. Help me trust You with what I cannot control and obey You in what I can. Amen.",
+      "daily_action": "Choose one decision you are facing. Pray about it, write down the facts you know, and identify one wise next step or person you can consult.",
+      "memory_verse": "Proverbs 3:5–6"
+    },
+    {
+      "id": "day-03",
+      "day": 3,
+      "title": "Peace in the Middle of Anxiety",
+      "theme": "Bringing worries honestly to God",
+      "scripture": {
+        "reference": "Philippians 4:6–7",
+        "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."
+      },
+      "reading_time_minutes": 9,
+      "devotional": "Worry often begins with a question about the future: What if I fail? What if the money is not enough? What if the conversation goes badly? What if the situation never changes? The mind can repeat these questions until they seem larger than everything else.\n\nPaul’s words in Philippians do not shame people for feeling pressure. Instead, they invite believers to bring every situation to God in prayer. The passage gives us a practical movement: name the concern, ask for help, remember reasons for gratitude, and entrust the matter to God. Prayer makes room for honesty. You do not have to hide your fear behind impressive religious language.\n\nThanksgiving does not mean calling painful things good or denying real problems. It means remembering that trouble is not the only truth about your life. You may be facing a difficult season and still have people who care about you, lessons you have learned, daily provision, or strength to ask for help. Gratitude can widen your view without minimizing your struggle.\n\nThe peace God gives is not always the immediate disappearance of a problem. Sometimes the circumstances remain difficult while your heart becomes steadier. This peace is described as guarding the heart and mind. It can help you resist the belief that every frightening thought is a prediction or that every problem must be solved right now.\n\nWhen anxiety feels intense or continues to interfere with daily life, prayer can sit alongside practical support. Speaking with someone trustworthy, resting, addressing a real problem, or seeking help from a qualified professional can be wise steps. Asking for help is not a failure of faith.\n\nToday, try turning a worry into a prayer. Be specific. Ask for what you need, and then take one manageable step. You may need to repeat this practice many times. God welcomes you each time you come.",
+      "reflection_questions": [
+        "What worry have I been carrying alone?",
+        "What can I honestly thank God for without pretending that everything is easy?",
+        "What practical support or next step might help me respond wisely?"
+      ],
+      "prayer": "God of peace, You know the concerns I carry and the thoughts I struggle to quiet. I bring them to You now. Give me courage to face what I can change and grace to release what I cannot control. Help me notice Your goodness even in a difficult season. Guard my heart and mind, and lead me toward wise support when I need it. In Jesus’ name, amen.",
+      "daily_action": "Make a two-column list: “What I am worried about” and “What I can do today.” Pray over the list and focus on one manageable action.",
+      "memory_verse": "Philippians 4:6–7"
+    },
+    {
+      "id": "day-04",
+      "day": 4,
+      "title": "The Strength to Keep Going",
+      "theme": "Perseverance when life feels tiring",
+      "scripture": {
+        "reference": "Isaiah 40:29",
+        "text": "He gives strength to the weary and increases the power of the weak."
+      },
+      "reading_time_minutes": 8,
+      "devotional": "There are days when continuing feels like an achievement. You may be doing your best to meet responsibilities while carrying disappointment, fatigue, or pressure that other people cannot see. You may even feel guilty because you are tired, as though a faithful person should always feel strong.\n\nScripture gives a different picture. God gives strength to the weary. The promise is not that faithful people never become exhausted. It is that weakness does not place them outside the reach of God’s care. You can come to Him honestly when your energy is low.\n\nStrength may arrive in ways that seem ordinary. It may be the courage to ask someone for help, the discipline to rest, the patience to try again, or the wisdom to stop carrying responsibilities that are not yours. Sometimes strength means moving forward. Sometimes it means acknowledging that you need a pause.\n\nPerseverance is not the same as refusing to change. If a plan is harming you or another person, wisdom may require a different approach. God’s strength can help you remain faithful to what is good while also giving you courage to make necessary changes.\n\nDo not compare your present capacity with someone else’s visible achievements. You do not know the full story behind another person’s progress, and your calling is not to copy their pace. Focus on the work and relationships God has placed before you. Take the next step you can take with the strength available today.\n\nIf you have stumbled, you can begin again. If you have been carrying too much, you can ask for help. If you have been discouraged, you can tell God the truth. His care is not reserved for people who have everything together. He meets the weary and gives strength for the road ahead.",
+      "reflection_questions": [
+        "Where am I feeling most tired or discouraged?",
+        "Am I treating rest or asking for help as a sign of failure?",
+        "What does faithfulness look like at my present level of strength?"
+      ],
+      "prayer": "Heavenly Father, You know where I feel weak and where I have been trying to appear strong. Please renew my strength. Show me when to keep going, when to rest, and when to ask for help. Keep discouragement from making me give up on what is good. Help me take today one step at a time, trusting that Your care is sufficient. Amen.",
+      "daily_action": "Identify one responsibility you can simplify, one task you can complete, and one person you can ask for support if needed.",
+      "memory_verse": "Isaiah 40:29"
+    },
+    {
+      "id": "day-05",
+      "day": 5,
+      "title": "Learning to Forgive",
+      "theme": "Releasing resentment while pursuing what is right",
+      "scripture": {
+        "reference": "Ephesians 4:32",
+        "text": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."
+      },
+      "reading_time_minutes": 10,
+      "devotional": "Forgiveness can be difficult, especially when someone has hurt you deeply or has never acknowledged the harm they caused. The Bible’s call to forgive should not be used to pretend that pain is small, to excuse wrongdoing, or to pressure someone to remain in an unsafe situation. Forgiveness is a serious process that begins with truth.\n\nEphesians connects forgiveness with kindness and compassion. Because Christians have received mercy from God, they are called to extend mercy to others. This does not mean that every relationship will return to how it was before. Trust may need to be rebuilt through consistent actions, and some boundaries may remain necessary.\n\nForgiveness is not the same as saying, “What happened was acceptable.” It is a decision, often repeated over time, to resist allowing bitterness to rule your heart. You can name the wrong, seek justice through appropriate means, protect yourself, and still ask God to help you release the desire for revenge.\n\nSometimes the first step is simply being honest with God: “I am hurt, and I do not know how to forgive.” You can pray for willingness before you feel ready. You can also speak with a wise, trustworthy person who will respect your safety and help you think clearly.\n\nRemember that forgiveness is not a demand to reconcile at any cost. Reconciliation involves more than one person and usually requires honesty, accountability, and changed behavior. If someone continues to harm or threaten you, seek safety and appropriate support. Setting a boundary can be consistent with compassion.\n\nToday, ask God to show you what forgiveness might look like in your situation. It may begin with a prayer, a boundary, a conversation with a counselor or trusted leader, or the decision not to feed thoughts of revenge. Let God guide the process at a pace that honors truth and safety.",
+      "reflection_questions": [
+        "What hurt am I carrying, and have I allowed myself to name it honestly?",
+        "What is the difference between forgiveness, trust, and reconciliation in my situation?",
+        "What boundary or support may be necessary as I seek healing?"
+      ],
+      "prayer": "Merciful God, You know the pain I carry and the difficulty I have forgiving. Help me face the truth without being ruled by bitterness. Give me wisdom to establish healthy boundaries, courage to seek help, and grace to release revenge. Where reconciliation is possible, guide it through honesty and changed actions. Bring healing to my heart in Your time. Amen.",
+      "daily_action": "Write a private prayer naming the hurt you are carrying. You do not need to contact the person today; focus on honesty, safety, and the next wise step.",
+      "memory_verse": "Ephesians 4:32"
+    },
+    {
+      "id": "day-06",
+      "day": 6,
+      "title": "A Life Built on God’s Word",
+      "theme": "Making Scripture part of everyday life",
+      "scripture": {
+        "reference": "Psalm 119:105",
+        "text": "Your word is a lamp for my feet, a light on my path."
+      },
+      "reading_time_minutes": 8,
+      "devotional": "A lamp does not usually reveal an entire journey at once. It gives enough light to see where to place your feet. Psalm 119 uses this image to describe God’s Word. Scripture gives guidance for real life: how we treat people, how we respond to temptation, how we use our resources, and how we remain faithful when circumstances change.\n\nReading the Bible can become difficult when we approach it only as a task to finish. We may rush through a chapter without considering what it says, or feel discouraged because we do not understand every passage. A better habit is to read attentively, ask questions, and allow the message to shape our choices.\n\nStart with a manageable portion. Read slowly. Notice what the passage reveals about God, what it teaches about human life, and whether it offers a command, warning, promise, or example. Consider the context rather than pulling one sentence away from the rest of the passage. If something is confusing, write down the question and return to it later or ask a knowledgeable person.\n\nThe purpose of Scripture is not merely to help us collect information. It forms our character. A passage about patience may challenge the way we speak to family. A teaching about honesty may affect how we handle schoolwork or business. A reminder of God’s faithfulness may help us remain hopeful during a difficult week.\n\nYou do not need a perfect study environment to begin. A few quiet minutes, a Bible, and an honest heart are enough. Consistency matters more than trying to do an enormous amount once and then stopping. Let the Word become a steady part of your daily life.\n\nToday, choose one verse and carry it with you. Return to it when you face a decision or feel distracted. Ask God not only to help you understand the passage, but also to help you live it.",
+      "reflection_questions": [
+        "What usually makes it difficult for me to read Scripture consistently?",
+        "What does today’s passage show me about God or about how I should live?",
+        "How can I put one biblical truth into practice today?"
+      ],
+      "prayer": "Lord, thank You for giving Your Word to guide and shape me. Help me read with patience, understand with humility, and obey with courage. Keep me from treating Scripture as a task alone. Let its truth influence my choices, conversations, and relationships. Give me a steady desire to know You more deeply. Amen.",
+      "daily_action": "Read Psalm 119:105 in its surrounding context. Write one sentence about what it teaches and one way you can apply it today.",
+      "memory_verse": "Psalm 119:105"
+    },
+    {
+      "id": "day-07",
+      "day": 7,
+      "title": "Loving Your Neighbour in Practical Ways",
+      "theme": "Making love visible through action",
+      "scripture": {
+        "reference": "Mark 12:31",
+        "text": "Love your neighbor as yourself."
+      },
+      "reading_time_minutes": 8,
+      "devotional": "Love is one of the central teachings of Jesus, yet it can be easy to reduce love to a feeling. Feelings matter, but biblical love also becomes visible through choices: listening carefully, speaking truthfully, showing patience, helping when we can, and treating people with dignity.\n\nJesus’ command to love your neighbour challenges the limits we sometimes place around compassion. A neighbour is not only someone who agrees with us, belongs to our circle, or can offer something in return. The people around us have needs, stories, and worth that should shape how we treat them.\n\nPractical love does not require dramatic gestures. It may look like giving someone your attention instead of looking at your phone, helping a classmate understand a lesson, checking on an elderly person, or speaking respectfully when you disagree. It can also mean apologizing when your words have caused harm.\n\nLoving others as yourself does not mean ignoring your own needs or accepting mistreatment. Healthy love includes wisdom and appropriate boundaries. You can be compassionate while saying no to a request you cannot responsibly meet. You can disagree with someone without insulting them. You can help without taking responsibility for choices that belong to another person.\n\nConsider how you treat people who cannot reward you. Do you listen to them? Do you speak about them with respect when they are absent? Do you notice when someone is excluded? These ordinary moments reveal whether love is becoming part of your character.\n\nAsk God to help you see the people around you with greater attention. You may not be able to solve every problem, but you can choose one act of kindness. Let your faith become visible in the way you treat the person in front of you.",
+      "reflection_questions": [
+        "Who around me may need patience, encouragement, or practical help?",
+        "How do I treat people when I disagree with them or gain nothing from them?",
+        "What boundary would help me love others wisely and sustainably?"
+      ],
+      "prayer": "Jesus, teach me to love people in practical and sincere ways. Help me listen before judging, speak with kindness, and notice people who are often overlooked. Give me wisdom to help where I can and to set healthy boundaries where I must. May my actions reflect the love You have shown me. Amen.",
+      "daily_action": "Choose one person and show practical kindness today through a thoughtful message, a helpful action, or undivided attention.",
+      "memory_verse": "Mark 12:31"
+    },
+    {
+      "id": "day-08",
+      "day": 8,
+      "title": "When Your Prayers Seem Unanswered",
+      "theme": "Waiting with honesty and hope",
+      "scripture": {
+        "reference": "Psalm 13:1–2",
+        "text": "How long, LORD? Will you forget me forever? How long will you hide your face from me?"
+      },
+      "reading_time_minutes": 9,
+      "devotional": "There are seasons when prayer feels like speaking into silence. You may have asked God for help many times and still see no change. You may wonder whether you are doing something wrong or whether God is listening at all. The Bible makes room for these honest questions.\n\nPsalm 13 begins with a cry of distress. The writer does not hide confusion or sadness behind religious language. This matters because faith is not the absence of difficult questions. The Psalms show people bringing grief, anger, fear, and longing directly to God.\n\nAn unanswered prayer does not automatically mean that God is rejecting you. It also does not mean that every desired outcome will happen if you wait long enough. Scripture does not give us control over God. It invites us into a relationship in which we can ask, lament, listen, and continue seeking wisdom.\n\nWaiting can be active. You can keep praying while also taking responsible steps, seeking help, and being open to answers that differ from your expectations. If your prayer concerns a relationship, you may need a conversation. If it concerns work or study, you may need a plan and support. If it concerns grief, you may need time and companionship rather than a quick explanation.\n\nDo not measure God’s love only by whether a particular request is granted on your schedule. The pain of waiting is real, and you do not have to pretend otherwise. Let trusted people walk with you. Return to Scripture. Tell God what you wish were different.\n\nToday, you can pray without having every answer. You can bring your disappointment honestly and ask for enough grace to take the next step. Hope does not require you to deny the difficulty; it gives you a reason to keep turning toward God in the middle of it.",
+      "reflection_questions": [
+        "What prayer have I been waiting on, and how has the waiting affected me?",
+        "Have I felt pressure to hide my disappointment from God?",
+        "What support or practical action could help me while I wait?"
+      ],
+      "prayer": "God, I bring You the prayers that seem unanswered and the questions I do not know how to resolve. You know my disappointment and my hopes. Help me be honest with You, wise in my actions, and patient without pretending that waiting is easy. Surround me with people who can support me, and give me grace for today. Amen.",
+      "daily_action": "Write a short, honest prayer about something you are waiting for. Then identify one helpful action you can take while you wait.",
+      "memory_verse": "Psalm 13:1"
+    },
+    {
+      "id": "day-09",
+      "day": 9,
+      "title": "Choosing Integrity When No One Is Watching",
+      "theme": "Faithfulness in private decisions",
+      "scripture": {
+        "reference": "Proverbs 10:9",
+        "text": "Whoever walks in integrity walks securely, but whoever takes crooked paths will be found out."
+      },
+      "reading_time_minutes": 8,
+      "devotional": "Integrity is the practice of being truthful and consistent even when there is no immediate reward for doing what is right. It is easy to value honesty in theory. The challenge comes when dishonesty seems convenient, when a shortcut promises quick success, or when we believe nobody will discover what we have done.\n\nThe Bible presents integrity as a way of life, not a performance for public approval. A person of integrity seeks to make private choices match public words. This includes how we handle money, complete assignments, keep promises, use other people’s work, and speak about those who are not present.\n\nIntegrity does not mean never making mistakes. It means responding honestly when we do. If you have misled someone, you can admit it and take steps to repair the harm. If you have made a promise you cannot keep, you can communicate clearly rather than disappearing. If you have benefited from an unfair advantage, you can consider how to make things right.\n\nShortcuts can appear attractive because they promise results without the effort or patience that responsible work requires. But dishonest success often creates new problems: fear of being exposed, damaged trust, and harm to people who depend on us. Integrity may sometimes cost us an opportunity, but it helps build a life that does not depend on deception.\n\nGod cares about the small decisions that shape our character. The way you behave when nobody is applauding matters. Choose honesty in one ordinary situation today. If you have fallen short, do not hide; take responsibility and seek a better path.",
+      "reflection_questions": [
+        "Where am I tempted to take a shortcut that conflicts with my values?",
+        "Is there a promise or mistake I need to address honestly?",
+        "What would integrity look like in my work, studies, or relationships today?"
+      ],
+      "prayer": "Lord, make me a person of integrity. Help me choose honesty when dishonesty seems easier and keep my private actions consistent with my public words. Give me courage to admit mistakes, repair harm, and resist shortcuts that compromise what is right. Let my character grow through the small decisions I make each day. Amen.",
+      "daily_action": "Choose one situation in which you can practice honesty or keep a commitment more carefully. Follow through even if it is inconvenient.",
+      "memory_verse": "Proverbs 10:9"
+    },
+    {
+      "id": "day-10",
+      "day": 10,
+      "title": "Gratitude in Ordinary Days",
+      "theme": "Noticing the gifts already around you",
+      "scripture": {
+        "reference": "1 Thessalonians 5:18",
+        "text": "Give thanks in all circumstances; for this is God’s will for you in Christ Jesus."
+      },
+      "reading_time_minutes": 8,
+      "devotional": "Gratitude is easy to overlook when life becomes familiar. We may notice what is missing more quickly than what is present. We may compare our lives with other people’s achievements and forget the quiet gifts that support us every day.\n\nThe instruction to give thanks in all circumstances does not mean that every circumstance is good. It does not ask a grieving person to pretend that loss is painless or a struggling person to deny real hardship. Instead, it invites us to remain open to God’s goodness even when life contains difficulty.\n\nGratitude can change the way we pay attention. We begin to notice a friend who checks on us, a lesson that helps us grow, a meal shared with family, the ability to learn something new, or the courage to try again after disappointment. These things may seem ordinary, but ordinary gifts can sustain us.\n\nThanksgiving also protects us from believing that our worth depends entirely on what we own or achieve. Ambition can be useful, but constant comparison can make every accomplishment feel insufficient. Gratitude helps us celebrate progress without pretending that we have everything we want.\n\nYou can practice gratitude without ignoring injustice or refusing to work for change. In fact, gratitude can strengthen generosity. When we recognize what we have received, we may become more willing to share time, encouragement, knowledge, or resources with others.\n\nToday, slow down enough to notice. Name specific things you are thankful for. If your day is difficult, begin with something small and honest. Gratitude is not a denial of pain; it is a way of remembering that pain is not the only thing present.",
+      "reflection_questions": [
+        "What ordinary gift have I stopped noticing?",
+        "How does comparison affect my ability to be grateful?",
+        "How could gratitude lead me to encourage or help someone else?"
+      ],
+      "prayer": "Generous Father, thank You for the gifts I often overlook. Help me be honest about the difficult parts of life while remaining attentive to Your goodness. Free me from unhealthy comparison and teach me to use what I have with gratitude and generosity. May thankfulness shape my words and actions today. Amen.",
+      "daily_action": "Write down five specific things you are grateful for. Share one sincere word of appreciation with someone who has helped you.",
+      "memory_verse": "1 Thessalonians 5:18"
+    },
+    {
+      "id": "day-11",
+      "day": 11,
+      "title": "Serving with the Gifts You Have",
+      "theme": "Using your abilities to bless others",
+      "scripture": {
+        "reference": "1 Peter 4:10",
+        "text": "Each of you should use whatever gift you have received to serve others, as faithful stewards of God’s grace in its various forms."
+      },
+      "reading_time_minutes": 9,
+      "devotional": "It is easy to believe that meaningful service belongs only to people with public positions, special training, or large resources. Yet the Bible describes service as something every believer can participate in. Each person has received abilities, opportunities, experiences, or resources that can be used to help others.\n\nYour gift may be teaching, organizing, listening, creating, encouraging, solving problems, caring for children, or doing practical work that rarely receives public attention. You do not need to have the same abilities as another person to make a meaningful contribution. The question is not whether your gift looks impressive, but whether you are willing to use it faithfully.\n\nService begins with noticing needs. A student may help a classmate understand a difficult topic. A worker may share knowledge with a new colleague. A neighbour may help an older person with an errand. A person with limited money may still offer time, attention, or encouragement.\n\nServing others does not mean allowing people to exploit you or neglecting every responsibility in your own life. Faithful service requires wisdom. You can consider your capacity, set limits, and choose commitments you can sustain. Saying no to one request may allow you to say yes to another responsibility that fits your situation.\n\nAvoid comparing your contribution with someone else’s. Some forms of service are visible; others happen quietly. God’s call is not to compete for recognition but to be a faithful steward of what has been entrusted to you.\n\nAsk yourself what you can offer in this season. You may need to develop a skill, make time, or simply become more attentive to people around you. Begin where you are. A gift used with humility can become a source of encouragement and practical help.",
+      "reflection_questions": [
+        "What ability, experience, or resource could I use to help someone?",
+        "Am I comparing my contribution with another person’s?",
+        "What limits will help me serve in a healthy and sustainable way?"
+      ],
+      "prayer": "God, thank You for the abilities and opportunities You have entrusted to me. Help me recognize how I can use them to serve others. Keep me humble when my work is noticed and faithful when it is not. Give me wisdom to serve without neglecting healthy responsibilities. Show me one person I can encourage or help today. Amen.",
+      "daily_action": "Use one ability you have to help someone. Keep the action practical, respectful, and within your capacity.",
+      "memory_verse": "1 Peter 4:10"
+    },
+    {
+      "id": "day-12",
+      "day": 12,
+      "title": "Hope When You Feel Discouraged",
+      "theme": "Remembering that hardship is not the whole story",
+      "scripture": {
+        "reference": "Romans 15:13",
+        "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit."
+      },
+      "reading_time_minutes": 9,
+      "devotional": "Discouragement can make the future look smaller than it really is. After repeated setbacks, we may begin to expect failure before we try. We may interpret one difficult season as proof that nothing will ever improve. These thoughts can feel convincing, especially when we are tired.\n\nRomans describes God as the God of hope. Christian hope is not simply positive thinking or a promise that every situation will turn out exactly as we desire. It is confidence rooted in God’s character and in the life, death, and resurrection of Jesus. It allows us to face reality without treating present difficulty as the final word.\n\nHope can coexist with sadness. You can grieve and still hope. You can acknowledge that a plan failed and still believe that your life has value. You can need help and still trust God. Hope does not demand that you feel cheerful every moment.\n\nWhen discouragement grows, return to what is true. Remember times when you received help, consider what you have learned, and speak with people who can encourage you honestly. Avoid making major conclusions about your entire future during a moment of exhaustion or pain.\n\nSometimes the next hopeful step is small: applying for an opportunity, asking a question, returning to a useful routine, apologizing, or resting before trying again. You do not have to feel confident about every step to take one.\n\nAsk God to renew your hope in a way that is honest and grounded. Let hope give you courage to act responsibly, receive support, and remain open to possibilities you cannot yet see.",
+      "reflection_questions": [
+        "What setback has been shaping the way I think about my future?",
+        "What is the difference between biblical hope and expecting everything to go my way?",
+        "What small step would help me move forward without denying my present feelings?"
+      ],
+      "prayer": "God of hope, meet me in my discouragement. Help me see my situation clearly without allowing it to define my whole future. Give me peace as I trust You, courage to take the next step, and humility to receive help. Renew my hope through Your Spirit and remind me that I am not alone. Amen.",
+      "daily_action": "Write one discouraging thought and then write a truthful, balanced response grounded in Scripture and the facts of your situation.",
+      "memory_verse": "Romans 15:13"
+    },
+    {
+      "id": "day-13",
+      "day": 13,
+      "title": "Patience with People",
+      "theme": "Patience with People",
+      "scripture": {
+        "reference": "Colossians 3:12–13",
+        "text": "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you."
+      },
+      "reading_time_minutes": 10,
+      "devotional": "Patience is not pretending that difficult behavior does not affect you. It is choosing to respond thoughtfully instead of allowing irritation to control your words. People grow at different speeds, and you may not know the burdens another person is carrying. Colossians calls believers to put on compassion, kindness, humility, gentleness, and patience. These qualities are not merely private feelings; they shape conversations, disagreements, and everyday relationships.\n\nBeing patient does not mean accepting abuse or refusing to address a problem. It means approaching problems without contempt. You can explain how someone’s actions affect you, ask for change, and set a boundary while still speaking with dignity. Patience gives room for honest correction and for the possibility that you, too, may need correction.\n\nThink about the people with whom you become impatient most quickly. Is it because they repeat a mistake, move more slowly than you, or see a situation differently? Ask God to help you notice your own reactions. Sometimes a pause before answering can prevent words that cause lasting hurt.\n\nToday, practice patience in one specific interaction. Listen fully, ask a question before assuming, and speak in a way that leaves room for understanding. Patience is a form of strength because it allows love and wisdom—not irritation—to guide your response.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "Colossians 3:12–13"
+    },
+    {
+      "id": "day-14",
+      "day": 14,
+      "title": "Wisdom Before You Speak",
+      "theme": "Wisdom Before You Speak",
+      "scripture": {
+        "reference": "James 1:19",
+        "text": "Everyone should be quick to listen, slow to speak and slow to become angry."
+      },
+      "reading_time_minutes": 10,
+      "devotional": "Words can encourage, clarify, heal, or wound. In a hurried conversation, it is tempting to prepare a response while the other person is still speaking. James offers a different rhythm: listen quickly, speak slowly, and be slow to anger. This does not mean that you should never speak up. It means that your response should be shaped by understanding rather than impulse.\n\nListening is an act of respect. It communicates that another person’s experience matters, even when you do not agree with their conclusions. Before responding, try to understand what the person is actually saying. Ask a clarifying question. Notice whether you are reacting to the words themselves or to an assumption you have made about the speaker.\n\nBeing slow to speak can also protect you from promises you cannot keep, gossip you cannot verify, and criticism that does not help. If you are angry, a pause may give you time to choose a truthful and constructive response. You can return to a difficult conversation when you are calmer.\n\nThe goal is not silence at all costs. Some situations require clear speech, correction, or advocacy. But even necessary words can be spoken with care. Ask God to make your speech honest, timely, and helpful.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "James 1:19"
+    },
+    {
+      "id": "day-15",
+      "day": 15,
+      "title": "Faithfulness in Small Things",
+      "theme": "Faithfulness in Small Things",
+      "scripture": {
+        "reference": "Luke 16:10",
+        "text": "Whoever can be trusted with very little can also be trusted with much."
+      },
+      "reading_time_minutes": 8,
+      "devotional": "We often imagine that our most meaningful work will happen later, when we have more money, influence, education, or opportunity. Jesus’ teaching about faithfulness in small things challenges that assumption. Character is formed in ordinary responsibilities long before anyone notices a major achievement.\n\nSmall things include arriving when you said you would, completing a task carefully, keeping information confidential, returning what you borrowed, and treating people respectfully when you are busy. These choices may seem unimportant, but they build habits of trustworthiness. They also affect other people, who may depend on your reliability.\n\nFaithfulness is not perfection. You will sometimes forget, misjudge, or fall short. When that happens, honesty and correction matter. A trustworthy person does not need to pretend to be flawless; they take responsibility and make a sincere effort to improve.\n\nDo not wait for a grand opportunity before practicing the values you hope to carry into the future. The way you handle today’s responsibilities is part of your preparation. Ask God to help you do ordinary work with care and to recognize the people who are affected by your choices.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "Luke 16:10"
+    },
+    {
+      "id": "day-16",
+      "day": 16,
+      "title": "God Is Near to the Brokenhearted",
+      "theme": "God Is Near to the Brokenhearted",
+      "scripture": {
+        "reference": "Psalm 34:18",
+        "text": "The LORD is close to the brokenhearted and saves those who are crushed in spirit."
+      },
+      "reading_time_minutes": 10,
+      "devotional": "Pain can make a person feel isolated. Even when friends and family are nearby, grief or disappointment may be difficult to explain. Psalm 34 offers a tender assurance: God is near to the brokenhearted. It does not say that faithful people never experience heartbreak. It tells us that sorrow does not place us beyond God’s attention.\n\nWhen you are hurting, you do not have to force yourself to sound strong. Lament—honestly expressing grief and confusion to God—is part of the Bible’s language of faith. You can tell God what you miss, what feels unfair, and what you are afraid of. Honest prayer is not disrespect; it is bringing your real life into relationship with Him.\n\nHealing is often gradual. It may involve prayer, supportive relationships, rest, practical help, and professional care when needed. There is no single timetable that everyone must follow. Avoid judging your progress by someone else’s story. Take one day at a time and allow trusted people to walk beside you.\n\nIf someone around you is grieving, you may not need to find perfect words. Listening, offering practical help, and remaining present can be more meaningful than trying to explain the pain away. God’s nearness can be reflected through the care people give one another.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "Psalm 34:18"
+    },
+    {
+      "id": "day-17",
+      "day": 17,
+      "title": "Contentment and Godly Ambition",
+      "theme": "Contentment and Godly Ambition",
+      "scripture": {
+        "reference": "Hebrews 13:5",
+        "text": "Keep your lives free from the love of money and be content with what you have, because God has said, ‘Never will I leave you; never will I forsake you.’"
+      },
+      "reading_time_minutes": 10,
+      "devotional": "Contentment is sometimes misunderstood as having no goals or accepting every circumstance without effort. Biblical contentment is different. It is learning not to make possessions, status, or comparison the foundation of your worth. You can work hard, develop skills, pursue education, and plan responsibly while refusing to let money become your master.\n\nThe desire for a better life can come from good motives: caring for family, contributing to society, or using your abilities well. But ambition can become unhealthy when it leads us to dishonesty, constant comparison, or neglect of relationships and spiritual life. Contentment asks us to examine not only what we want, but why we want it and what we are willing to sacrifice to obtain it.\n\nHebrews grounds contentment in God’s presence. What you own may change; your circumstances may improve or become difficult. God’s promise to remain with His people gives a deeper security than possessions can provide. This does not remove the need to address poverty or injustice. It reminds us that human dignity is not measured by wealth.\n\nToday, name one goal you are pursuing and consider whether your approach reflects honesty, gratitude, and care for others. Ask God to help you work diligently without allowing comparison to steal your peace.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "Hebrews 13:5"
+    },
+    {
+      "id": "day-18",
+      "day": 18,
+      "title": "Courage to Do What Is Right",
+      "theme": "Courage to Do What Is Right",
+      "scripture": {
+        "reference": "Joshua 1:9",
+        "text": "Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go."
+      },
+      "reading_time_minutes": 10,
+      "devotional": "Courage is not the absence of fear. It is the willingness to take a wise and faithful step even when fear is present. Joshua received encouragement as he faced a demanding responsibility. His courage was connected to God’s presence, not to a guarantee that every task would be easy.\n\nYou may need courage to tell the truth, begin something unfamiliar, ask for help, apologize, or stand beside someone being treated unfairly. These choices can feel uncomfortable because you cannot control how others will respond. Courage does not require recklessness. It works together with preparation, good judgment, and care for people who may be affected.\n\nSometimes courage means speaking; sometimes it means refusing to join harmful behavior. Sometimes it means admitting that you do not know what to do and seeking guidance. The goal is not to appear fearless but to act with integrity and love.\n\nBefore a difficult task, pause and remember that you do not have to manufacture strength alone. Pray, prepare as well as you can, and take the next step. If the situation involves danger or abuse, prioritize safety and seek appropriate help. Courage includes protecting life and asking others to stand with you.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "Joshua 1:9"
+    },
+    {
+      "id": "day-19",
+      "day": 19,
+      "title": "A Heart That Seeks Wisdom",
+      "theme": "A Heart That Seeks Wisdom",
+      "scripture": {
+        "reference": "James 1:5",
+        "text": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you."
+      },
+      "reading_time_minutes": 8,
+      "devotional": "Wisdom is more than knowing many facts. It is the ability to apply what is true and good to the decisions of everyday life. We need wisdom when choices are complicated, when emotions are strong, and when the consequences of a decision may affect other people.\n\nJames encourages believers to ask God for wisdom. This invitation is reassuring because it acknowledges that we do not always know what to do. Asking for wisdom is not a sign of weakness. It is an act of humility that opens us to learning, correction, and careful thought.\n\nWisdom often grows through several practices: reading Scripture in context, listening to trustworthy counsel, considering the likely consequences of our actions, and being willing to admit when we are wrong. It also involves patience. A decision made in anger or panic may not reflect our deepest values.\n\nWhen you face a choice, ask: Is it honest? Is it loving? Who may be affected? What information am I missing? Am I avoiding a truth because it is uncomfortable? Pray for guidance, gather the facts, and seek counsel from people who demonstrate maturity and integrity.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "James 1:5"
+    },
+    {
+      "id": "day-20",
+      "day": 20,
+      "title": "Rest Is Not Laziness",
+      "theme": "Rest Is Not Laziness",
+      "scripture": {
+        "reference": "Mark 6:31",
+        "text": "Come with me by yourselves to a quiet place and get some rest."
+      },
+      "reading_time_minutes": 10,
+      "devotional": "Many people measure their worth by how much they accomplish. When responsibilities pile up, rest can feel undeserved. Yet the life of Jesus includes moments of withdrawal and rest. In Mark, Jesus invites His disciples to step away from the crowds for a while. Rest is not presented as a rejection of service; it is part of a sustainable life.\n\nRest can include sleep, quiet prayer, time outdoors, healthy recreation, or a break from constant notifications. It may also mean asking for help or making a realistic schedule. Rest does not solve every problem, and some seasons require extra effort. Still, consistently ignoring your limits can make it harder to care for yourself and others.\n\nRest is not the same as avoiding every responsibility. Wisdom helps us distinguish between a task that needs attention and a burden we are carrying unnecessarily. We can plan our work, make room for recovery, and recognize that our value is not determined by constant productivity.\n\nConsider what kind of rest you need today. Perhaps you need to sleep earlier, take a short walk, spend a few minutes in silence, or talk with someone about a workload that has become too heavy. Invite God into your rest, not only into your work.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "Mark 6:31"
+    },
+    {
+      "id": "day-21",
+      "day": 21,
+      "title": "Walking in Humility",
+      "theme": "Walking in Humility",
+      "scripture": {
+        "reference": "Philippians 2:3",
+        "text": "Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves."
+      },
+      "reading_time_minutes": 8,
+      "devotional": "Humility is not thinking that you have no value. It is seeing yourself truthfully while recognizing that other people have dignity too. It allows you to learn from others, accept correction, celebrate someone else’s success, and acknowledge your limits without shame.\n\nPride can appear in obvious ways, such as boasting, but it can also appear as an unwillingness to listen or admit a mistake. Sometimes we protect our image so carefully that we become unable to grow. Humility makes room for honest reflection: I may have misunderstood. I may need help. Someone else may have a useful perspective.\n\nValuing others does not mean agreeing with everything they say or abandoning your own needs. It means refusing to treat people as less important because they have less status, money, education, or influence. Humility changes how we speak to people who cannot offer us an advantage.\n\nToday, practice humility by listening carefully, giving credit where it is due, or admitting one thing you still need to learn. Ask God to free you from the need to appear superior and to help you serve others sincerely.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "Philippians 2:3"
+    },
+    {
+      "id": "day-22",
+      "day": 22,
+      "title": "Hope That Shapes Tomorrow",
+      "theme": "Hope That Shapes Tomorrow",
+      "scripture": {
+        "reference": "Jeremiah 29:11",
+        "text": "‘For I know the plans I have for you,’ declares the LORD, ‘plans to prosper you and not to harm you, plans to give you hope and a future.’"
+      },
+      "reading_time_minutes": 10,
+      "devotional": "This verse is often quoted during seasons of change, but its original setting matters. Jeremiah’s message was given to people living in exile, and the surrounding passage speaks about a long period of waiting. The words were not a promise that every individual would receive immediate success or an easy life. They reminded a displaced community that God had not forgotten them.\n\nThat context can make the passage especially meaningful when your own plans are delayed. Hope does not always arrive as a quick solution. Sometimes it is the courage to keep living faithfully while circumstances remain uncertain. God’s care can sustain people through seasons they would not have chosen.\n\nYou can make plans without assuming that you control every outcome. You can work toward a future while remaining open to changes. If a door closes, allow yourself to grieve, learn, and seek new guidance rather than concluding that your life has no direction.\n\nToday, consider what hope means in your present season. It may involve a goal, a relationship, a responsibility, or simply the strength to take care of yourself. Pray for guidance and take one practical step, remembering that a meaningful future is not limited to one particular plan.",
+      "reflection_questions": [
+        "What part of this message speaks most directly to my life today?",
+        "What attitude or habit might God be inviting me to reconsider?",
+        "What is one practical way I can live out this truth?"
+      ],
+      "prayer": "Father, help me live out the truth of this passage. Give me understanding, humility, and courage to respond faithfully in my everyday life. Guide my thoughts and actions, and help me reflect Your love to the people around me. In Jesus’ name, amen.",
+      "daily_action": "Choose one practical action that reflects today’s Scripture, and make time to do it before the day ends.",
+      "memory_verse": "Jeremiah 29:11"
+    },
+    {
+      "id": "day-21",
+      "day": 21,
+      "title": "God’s Faithfulness in Every Season",
+      "theme": "God’s Faithfulness in Every Season",
+      "scripture": {
+        "reference": "Psalm 100:5",
+        "text": "For the LORD is good and his love endures forever; his faithfulness continues through all generations."
+      },
+      "reading_time_minutes": 9,
+      "devotional": "Life moves through seasons. Some are full of celebration, while others require patience and endurance. The circumstances around you may change quickly, but Scripture repeatedly points to God’s enduring character. Psalm 100 calls worshippers to remember that God is good and faithful across generations.\n\nRemembering faithfulness does not mean that every event in your life has been easy or understandable. It means looking beyond one moment and recognizing that God’s character is not controlled by your current feelings. When you are joyful, gratitude can deepen your worship. When you are struggling, remembering God’s faithfulness can help you keep praying and seeking support.\n\nYou may find it helpful to remember specific moments when you received encouragement, guidance, provision, or strength. These memories are not proof that you will get every outcome you want, but they can remind you that you have not walked through life entirely alone. You can also learn from the stories of faith in Scripture and from the testimony of people who have walked with God over many years.\n\nToday, make room to remember. Thank God for what has carried you this far, and ask for grace to remain faithful in the season you are in now.",
+      "reflection_questions": [
+        "What truth from this passage do I need to remember today?",
+        "Where could I put this truth into practice in my current circumstances?",
+        "What change, conversation, or next step should I prayerfully consider?"
+      ],
+      "prayer": "Heavenly Father, thank You for speaking through Your Word. Help me understand this message and live it with sincerity. Give me wisdom for my choices, compassion for others, and courage to take the next faithful step. Keep my heart close to You today. In Jesus’ name, amen.",
+      "daily_action": "Put one insight from today’s reading into practice through a specific action.",
+      "memory_verse": "Psalm 100:5"
+    },
+    {
+      "id": "day-22",
+      "day": 22,
+      "title": "Guarding Your Heart",
+      "theme": "Guarding Your Heart",
+      "scripture": {
+        "reference": "Proverbs 4:23",
+        "text": "Above all else, guard your heart, for everything you do flows from it."
+      },
+      "reading_time_minutes": 9,
+      "devotional": "The word heart in Scripture often refers to the inner life: our thoughts, desires, intentions, and decisions. To guard your heart is to pay attention to what is shaping you. The conversations you repeatedly entertain, the content you consume, and the attitudes you nurture can influence the way you treat people and understand yourself.\n\nGuarding your heart does not mean withdrawing from everyone or avoiding difficult truths. It means being thoughtful about what you allow to form your character. Some influences encourage compassion, courage, and wisdom. Others may feed resentment, envy, dishonesty, or despair. Ask yourself what a habit is producing in you over time.\n\nYou can guard your heart through prayer, Scripture, healthy friendships, rest, and boundaries around harmful patterns. You can also examine your own motives honestly. If you notice jealousy or anger growing, bring it to God rather than pretending it is not there. Honest reflection can help you choose a different response.\n\nToday, pay attention to one influence in your life. Consider whether it is helping you become more loving, truthful, and wise. Make one adjustment that protects the kind of person you want to become.",
+      "reflection_questions": [
+        "What truth from this passage do I need to remember today?",
+        "Where could I put this truth into practice in my current circumstances?",
+        "What change, conversation, or next step should I prayerfully consider?"
+      ],
+      "prayer": "Heavenly Father, thank You for speaking through Your Word. Help me understand this message and live it with sincerity. Give me wisdom for my choices, compassion for others, and courage to take the next faithful step. Keep my heart close to You today. In Jesus’ name, amen.",
+      "daily_action": "Put one insight from today’s reading into practice through a specific action.",
+      "memory_verse": "Proverbs 4:23"
+    },
+    {
+      "id": "day-23",
+      "day": 23,
+      "title": "The Gift of Encouragement",
+      "theme": "The Gift of Encouragement",
+      "scripture": {
+        "reference": "1 Thessalonians 5:11",
+        "text": "Therefore encourage one another and build each other up, just as in fact you are doing."
+      },
+      "reading_time_minutes": 9,
+      "devotional": "Encouragement is more than giving compliments. It is helping another person remember their dignity, recognize progress, or find courage to continue. A sincere word can matter deeply to someone who feels overlooked or discouraged.\n\nThe instruction to build one another up suggests that our words should contribute to another person’s growth. Encouragement can be specific: thanking someone for their effort, recognizing a quality you admire, or reminding a friend that one setback does not erase their progress. It can also mean listening without rushing to offer advice.\n\nEncouragement should be honest. Empty praise may feel pleasant for a moment, but thoughtful words are more trustworthy. You can affirm someone while also being truthful about a challenge. When correction is needed, speak with respect and a desire to help rather than to embarrass.\n\nConsider who has encouraged you. Their words may have helped you keep going, learn a skill, or face a difficult moment. You can offer that same kind of care to someone else. Today, look for an opportunity to strengthen another person with sincere words or practical support.",
+      "reflection_questions": [
+        "What truth from this passage do I need to remember today?",
+        "Where could I put this truth into practice in my current circumstances?",
+        "What change, conversation, or next step should I prayerfully consider?"
+      ],
+      "prayer": "Heavenly Father, thank You for speaking through Your Word. Help me understand this message and live it with sincerity. Give me wisdom for my choices, compassion for others, and courage to take the next faithful step. Keep my heart close to You today. In Jesus’ name, amen.",
+      "daily_action": "Put one insight from today’s reading into practice through a specific action.",
+      "memory_verse": "1 Thessalonians 5:11"
+    },
+    {
+      "id": "day-24",
+      "day": 24,
+      "title": "Learning from Mistakes",
+      "theme": "Learning from Mistakes",
+      "scripture": {
+        "reference": "Proverbs 24:16",
+        "text": "For though the righteous fall seven times, they rise again, but the wicked stumble when calamity strikes."
+      },
+      "reading_time_minutes": 9,
+      "devotional": "Mistakes can teach us, but shame can make it difficult to learn from them. When something goes wrong, we may focus only on how bad we feel or how others might judge us. Scripture offers a picture of resilience: the righteous may fall, but they rise again.\n\nRising again does not mean ignoring consequences. If your mistake harmed someone, taking responsibility may include apologizing, correcting misinformation, replacing what was lost, or changing a behavior. If you failed at a task, you can examine what went wrong and seek advice before trying again. Learning requires honesty about both the mistake and the conditions that contributed to it.\n\nAvoid turning one failure into a permanent identity. “I made a mistake” is different from “I am a failure.” The first statement leaves room for responsibility and growth; the second can make change seem impossible. God’s grace gives you room to confess, learn, and take a wiser next step.\n\nToday, identify one lesson from a past mistake. Instead of replaying it endlessly, consider what repair or change is possible now. Ask God to help you grow in wisdom and humility.",
+      "reflection_questions": [
+        "What truth from this passage do I need to remember today?",
+        "Where could I put this truth into practice in my current circumstances?",
+        "What change, conversation, or next step should I prayerfully consider?"
+      ],
+      "prayer": "Heavenly Father, thank You for speaking through Your Word. Help me understand this message and live it with sincerity. Give me wisdom for my choices, compassion for others, and courage to take the next faithful step. Keep my heart close to You today. In Jesus’ name, amen.",
+      "daily_action": "Put one insight from today’s reading into practice through a specific action.",
+      "memory_verse": "Proverbs 24:16"
+    },
+    {
+      "id": "day-25",
+      "day": 25,
+      "title": "Living with Purpose Today",
+      "theme": "Living with Purpose Today",
+      "scripture": {
+        "reference": "Ephesians 2:10",
+        "text": "For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."
+      },
+      "reading_time_minutes": 9,
+      "devotional": "Purpose can seem like a distant answer that must be discovered all at once. We may wonder what career to choose, what contribution to make, or whether our lives are making a difference. Ephesians reminds believers that they are God’s handiwork and are called to do good works. Purpose is not only a future title or public achievement; it is also expressed through faithful actions today.\n\nYou can live purposefully in ordinary settings: learning with diligence, caring for family, treating colleagues fairly, helping a neighbour, or using your skills to solve a problem. These actions may not attract attention, but they can make a real difference in the lives of others.\n\nPurpose also grows as you learn. You do not need to have every detail settled before you begin serving. Explore your abilities, seek wise guidance, and pay attention to needs you can responsibly meet. Be willing to adjust your plans as you gain experience and understanding.\n\nToday, ask how you can do good in the place where you already are. You may not know the shape of your whole future, but you can choose one meaningful action now. Let your sense of purpose grow through love, service, and faithfulness.",
+      "reflection_questions": [
+        "What truth from this passage do I need to remember today?",
+        "Where could I put this truth into practice in my current circumstances?",
+        "What change, conversation, or next step should I prayerfully consider?"
+      ],
+      "prayer": "Heavenly Father, thank You for speaking through Your Word. Help me understand this message and live it with sincerity. Give me wisdom for my choices, compassion for others, and courage to take the next faithful step. Keep my heart close to You today. In Jesus’ name, amen.",
+      "daily_action": "Put one insight from today’s reading into practice through a specific action.",
+      "memory_verse": "Ephesians 2:10"
+    }
+  ]
+}
