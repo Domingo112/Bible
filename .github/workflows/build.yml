@@ -1,31 +1,44 @@
 name: Build APK
-on: [push]
+
+on:
+  push:
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-      - uses: actions/setup-java@v4
+          python-version: "3.12"
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
         with:
-          distribution: 'temurin'
-          java-version: '21'
-      - uses: subosito/flutter-action@v2
-        with:
-          channel: stable
-          flutter-version: '3.24.5'
-      - name: Install flet
+          distribution: "temurin"
+          java-version: "17"
+
+      - name: Install Flet
         run: |
           python -m pip install --upgrade pip
           pip install flet
-          flutter --version
+
+      - name: Check Flet
+        run: |
+          python --version
           flet --version
+
       - name: Build APK
-        run: flet build apk --yes --verbose
+        run: |
+          flet build apk --yes --verbose
+
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: apk
-          path: build/apk 
+          name: bible-app-apk
+          path: build/apk/*.apk
