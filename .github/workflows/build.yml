@@ -1,4 +1,3 @@
-```yaml
 name: Build APK
 
 on:
@@ -87,4 +86,4 @@ jobs:
           name: bible-app-apk
           path: build/apk/*.apk
           if-no-files-found: error
-```
+
