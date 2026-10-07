@@ -1,9 +1,8 @@
-
 [project]
 name = "bible-app"
 version = "1.0.0"
-description = "Bible App"
-requires-python = ">=3.10"
+description = "Bible reading application"
+requires-python = ">=3.14,<3.15"
 dependencies = [
     "flet"
 ]
@@ -11,7 +10,5 @@ dependencies = [
 [tool.flet]
 product = "Bible App"
 org = "com.bibleapp"
-
-[tool.flet.android]
-icon = "icon.jpg"
-
+company = "Bible App"
+description = "A Bible reading application"
